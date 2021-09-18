@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @dubeymansi,currently pursuing B.Tech from NIT,Raipur.
-- 👀 I’m interested in Web Development.
+
 <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/mansi-dubey-359a2520b/" target="_blank"> Mansi Dubey </a></h1>
 <h3 align="center">A Passionate Web Developer</h3>
 

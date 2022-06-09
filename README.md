@@ -3,10 +3,6 @@
 <h3 align="center">A Passionate Web Developer</h3>
 
 
-<!-- <h3 align="left">Connect with me:</h3>
-<div align="left">
-  <a href="https://www.linkedin.com/in/jigar-sable/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</div> -->
 
 <h3 align="left">Web Technologies :</h3>
 <div align="left">
@@ -33,24 +29,5 @@
 </div>
 
 
-<!-- <h3 align="left">Hosting :</h3>
-<div align="left">
-  <img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white"/>
-  <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
-  <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
-</div><br/> -->
 
-<!-- <table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=jigar-sable&show_icons=true&theme=dark&locale=en" alt="jigar-sable" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jigar-sable&show_icons=true&theme=dark&locale=en&layout=compact" alt="jigar-sable" /></td>
-  </tr>
-</table>
-
-<div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jigar-sable&theme=dark" alt="jigar-sable" /></p>
-  </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jigar-sable&label=Profile%20Views&color=6805D3&style=flat" alt="jigar-sable" /> </p>
-
-<!--- -->
 
